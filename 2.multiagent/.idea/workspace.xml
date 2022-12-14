@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b949fe12-3eaf-44f1-92df-e952e21e3777" name="Changes" comment="Project 2 commit 1">
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/addition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/autograder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/buyLotsOfFruit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/grading.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/project0.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/projectParams.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/shop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/shopAroundTown.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/shopSmart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/testClasses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/testParser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q1/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q1/addition1.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q1/addition1.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q1/addition2.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q1/addition2.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q1/addition3.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q1/addition3.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q2/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q2/food_price1.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q2/food_price1.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q2/food_price2.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q2/food_price2.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q2/food_price3.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q2/food_price3.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q3/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q3/select_shop1.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q3/select_shop1.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q3/select_shop2.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q3/select_shop2.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q3/select_shop3.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/test_cases/q3/select_shop3.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/textDisplay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/town.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/tutorialTestClasses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/0.Tutorial/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/._0.tutorial" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/.___pycache__" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/._addition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/._autograder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/._buyLotsOfFruit.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/._grading.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/._projectParams.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/._shop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/._shopAroundTown.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/._shopSmart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/._testClasses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/._testParser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/._test_cases" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/._textDisplay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/._town.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/._tutorialTestClasses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/._util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/._CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/._q1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/._q2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/._q3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q1/._CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q1/._addition1.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q1/._addition1.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q1/._addition2.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q1/._addition2.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q1/._addition3.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q1/._addition3.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q2/._CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q2/._food_price1.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q2/._food_price1.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q2/._food_price2.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q2/._food_price2.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q2/._food_price3.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q2/._food_price3.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q3/._CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q3/._select_shop1.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q3/._select_shop1.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q3/._select_shop2.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q3/._select_shop2.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q3/._select_shop3.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0.Tutorial/0.tutorial/__MACOSX/0.tutorial/test_cases/q3/._select_shop3.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/.idea/1.search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/Statistical ML - Shortcut.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/VERSION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/autograder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/commands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/eightpuzzle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/ghostAgents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/grading.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/graphicsDisplay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/graphicsUtils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/keyboardAgents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/bigCorners.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/bigMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/bigSafeSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/bigSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/boxSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/capsuleClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/contestClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/contoursMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/greedySearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/mediumClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/mediumCorners.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/mediumDottedMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/mediumMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/mediumSafeSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/mediumScaryMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/mediumSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/minimaxClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/oddSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/openClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/openMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/openSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/originalClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/powerClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/smallClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/smallMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/smallSafeSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/smallSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/testClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/testMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/testSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/tinyCorners.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/tinyMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/tinySafeSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/tinySearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/trappedClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/trickyClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/layouts/trickySearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/pacman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/pacmanAgents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/projectParams.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/searchAgents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/searchTestClasses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/submission_autograder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/testClasses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/testParser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q1/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q1/graph_backtrack.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q1/graph_backtrack.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q1/graph_bfs_vs_dfs.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q1/graph_bfs_vs_dfs.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q1/graph_infinite.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q1/graph_infinite.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q1/graph_manypaths.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q1/graph_manypaths.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q1/pacman_1.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q1/pacman_1.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q2/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q2/graph_backtrack.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q2/graph_backtrack.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q2/graph_bfs_vs_dfs.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q2/graph_bfs_vs_dfs.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q2/graph_infinite.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q2/graph_infinite.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q2/graph_manypaths.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q2/graph_manypaths.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q2/pacman_1.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q2/pacman_1.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/graph_backtrack.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/graph_backtrack.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/graph_bfs_vs_dfs.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/graph_bfs_vs_dfs.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/graph_infinite.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/graph_infinite.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/graph_manypaths.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/graph_manypaths.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/ucs_0_graph.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/ucs_0_graph.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/ucs_1_problemC.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/ucs_1_problemC.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/ucs_2_problemE.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/ucs_2_problemE.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/ucs_3_problemW.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/ucs_3_problemW.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/ucs_4_testSearch.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/ucs_4_testSearch.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/ucs_5_goalAtDequeue.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q3/ucs_5_goalAtDequeue.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q4/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q4/astar_0.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q4/astar_0.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q4/astar_1_graph_heuristic.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q4/astar_1_graph_heuristic.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q4/astar_2_manhattan.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q4/astar_2_manhattan.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q4/astar_3_goalAtDequeue.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q4/astar_3_goalAtDequeue.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q4/graph_backtrack.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q4/graph_backtrack.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q4/graph_manypaths.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q4/graph_manypaths.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q5/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q5/corner_tiny_corner.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q5/corner_tiny_corner.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q6/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q6/corner_sanity_1.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q6/corner_sanity_1.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q6/corner_sanity_2.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q6/corner_sanity_2.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q6/corner_sanity_3.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q6/corner_sanity_3.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q6/medium_corners.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/test_cases/q6/medium_corners.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/textDisplay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search - Copy/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/.idea/1.search.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/Statistical ML - Shortcut.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/VERSION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/autograder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/commands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/eightpuzzle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/ghostAgents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/grading.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/graphicsDisplay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/graphicsUtils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/keyboardAgents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/bigCorners.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/bigMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/bigSafeSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/bigSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/boxSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/capsuleClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/contestClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/contoursMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/greedySearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/mediumClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/mediumCorners.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/mediumDottedMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/mediumMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/mediumSafeSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/mediumScaryMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/mediumSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/minimaxClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/oddSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/openClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/openMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/openSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/originalClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/powerClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/smallClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/smallMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/smallSafeSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/smallSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/testClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/testMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/testSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/tinyCorners.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/tinyMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/tinySafeSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/tinySearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/trappedClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/trickyClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/layouts/trickySearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/pacman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/pacmanAgents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/projectParams.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/searchAgents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/searchTestClasses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/submission_autograder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/testClasses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/testParser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q1/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q1/graph_backtrack.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q1/graph_backtrack.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q1/graph_bfs_vs_dfs.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q1/graph_bfs_vs_dfs.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q1/graph_infinite.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q1/graph_infinite.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q1/graph_manypaths.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q1/graph_manypaths.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q1/pacman_1.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q1/pacman_1.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q2/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q2/graph_backtrack.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q2/graph_backtrack.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q2/graph_bfs_vs_dfs.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q2/graph_bfs_vs_dfs.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q2/graph_infinite.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q2/graph_infinite.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q2/graph_manypaths.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q2/graph_manypaths.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q2/pacman_1.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q2/pacman_1.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/graph_backtrack.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/graph_backtrack.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/graph_bfs_vs_dfs.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/graph_bfs_vs_dfs.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/graph_infinite.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/graph_infinite.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/graph_manypaths.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/graph_manypaths.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/ucs_0_graph.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/ucs_0_graph.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/ucs_1_problemC.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/ucs_1_problemC.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/ucs_2_problemE.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/ucs_2_problemE.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/ucs_3_problemW.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/ucs_3_problemW.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/ucs_4_testSearch.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/ucs_4_testSearch.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/ucs_5_goalAtDequeue.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q3/ucs_5_goalAtDequeue.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q4/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q4/astar_0.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q4/astar_0.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q4/astar_1_graph_heuristic.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q4/astar_1_graph_heuristic.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q4/astar_2_manhattan.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q4/astar_2_manhattan.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q4/astar_3_goalAtDequeue.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q4/astar_3_goalAtDequeue.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q4/graph_backtrack.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q4/graph_backtrack.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q4/graph_manypaths.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q4/graph_manypaths.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q5/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q5/corner_tiny_corner.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q5/corner_tiny_corner.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q6/CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q6/corner_sanity_1.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q6/corner_sanity_1.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q6/corner_sanity_2.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q6/corner_sanity_2.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q6/corner_sanity_3.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q6/corner_sanity_3.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q6/medium_corners.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/test_cases/q6/medium_corners.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/textDisplay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/1.Search/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/._1.search" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._VERSION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/.___pycache__" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._autograder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._commands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._eightpuzzle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._ghostAgents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._grading.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._graphicsDisplay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._graphicsUtils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._keyboardAgents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._layout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._layouts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._pacman.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._pacmanAgents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._projectParams.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._searchAgents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._searchTestClasses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._submission_autograder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._testClasses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._testParser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._test_cases" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._textDisplay.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/._util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._bigCorners.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._bigMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._bigSafeSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._bigSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._boxSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._capsuleClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._contestClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._contoursMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._greedySearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._mediumClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._mediumCorners.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._mediumDottedMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._mediumMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._mediumSafeSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._mediumScaryMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._mediumSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._minimaxClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._oddSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._openClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._openMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._openSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._originalClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._powerClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._smallClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._smallMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._smallSafeSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._smallSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._testClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._testMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._testSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._tinyCorners.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._tinyMaze.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._tinySafeSearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._tinySearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._trappedClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._trickyClassic.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/layouts/._trickySearch.lay" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/._CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/._q1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/._q2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/._q3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/._q4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/._q5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/._q6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q1/._CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q1/._graph_backtrack.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q1/._graph_backtrack.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q1/._graph_bfs_vs_dfs.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q1/._graph_bfs_vs_dfs.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q1/._graph_infinite.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q1/._graph_infinite.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q1/._graph_manypaths.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q1/._graph_manypaths.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q1/._pacman_1.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q1/._pacman_1.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q2/._CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q2/._graph_backtrack.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q2/._graph_backtrack.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q2/._graph_bfs_vs_dfs.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q2/._graph_bfs_vs_dfs.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q2/._graph_infinite.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q2/._graph_infinite.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q2/._graph_manypaths.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q2/._graph_manypaths.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q2/._pacman_1.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q2/._pacman_1.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._graph_backtrack.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._graph_backtrack.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._graph_bfs_vs_dfs.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._graph_bfs_vs_dfs.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._graph_infinite.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._graph_infinite.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._graph_manypaths.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._graph_manypaths.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._ucs_0_graph.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._ucs_0_graph.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._ucs_1_problemC.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._ucs_1_problemC.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._ucs_2_problemE.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._ucs_2_problemE.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._ucs_3_problemW.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._ucs_3_problemW.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._ucs_4_testSearch.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._ucs_4_testSearch.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._ucs_5_goalAtDequeue.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q3/._ucs_5_goalAtDequeue.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q4/._CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q4/._astar_0.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q4/._astar_0.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q4/._astar_1_graph_heuristic.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q4/._astar_1_graph_heuristic.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q4/._astar_2_manhattan.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q4/._astar_2_manhattan.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q4/._astar_3_goalAtDequeue.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q4/._astar_3_goalAtDequeue.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q4/._graph_backtrack.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q4/._graph_backtrack.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q4/._graph_manypaths.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q4/._graph_manypaths.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q5/._CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q5/._corner_tiny_corner.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q5/._corner_tiny_corner.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q6/._CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q6/._corner_sanity_1.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q6/._corner_sanity_1.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q6/._corner_sanity_2.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q6/._corner_sanity_2.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q6/._corner_sanity_3.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q6/._corner_sanity_3.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q6/._medium_corners.solution" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1.search/__MACOSX/1.search/test_cases/q6/._medium_corners.test" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GVk2zlEBG5fUZQ3s3S9qEzZfyU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Aman-ASU/My Graduate/Artificial Intelligence/Projects/3.logicagent"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b949fe12-3eaf-44f1-92df-e952e21e3777" name="Changes" comment="" />
+      <created>1666480940649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666480940649</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Project 2 commit 1">
+      <created>1666481113003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666481113003</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project 2 commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project 2 commit 1" />
+  </component>
+</project>
